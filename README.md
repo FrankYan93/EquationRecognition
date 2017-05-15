@@ -6,9 +6,9 @@
 - Zhengyang Zhou
 
 ## Description
-Recognize hand-written equations.
-This is incomplete.
-This complete project changed to another location:
+Recognize hand-written equations.  
+This is incomplete.  
+The completed project changed to another location:
 https://github.com/xyjiang94/EquationRecognition
 
 ## Version
